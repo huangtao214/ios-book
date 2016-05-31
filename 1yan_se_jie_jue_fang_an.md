@@ -1,6 +1,6 @@
 # 1-颜色解决方案
 
-1 取出几个代表性的颜色，用于后期的颜色生成
+###1 选择几个代表性的颜色，用于后期的颜色生成。
 
 ```objc
 let colorArray:[UIColor] =
@@ -17,7 +17,7 @@ let colorArray:[UIColor] =
 ```
 ![](colorAarry.png)
 
-2 遍历colorArray 数组，根据alpha值，获取颜色
+###2 遍历colorArray 数组，根据alpha值，获取颜色。
 
 ```objc
  for(var i=0;i<colorArray.count;i++) {
@@ -30,5 +30,8 @@ let colorArray:[UIColor] =
                 }
             }
         }
-
 ```
+
+###3 效果图
+![](color1.png)
+![](color2.png)
