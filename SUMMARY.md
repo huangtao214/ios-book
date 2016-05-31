@@ -9,6 +9,5 @@
    * [3-UIButton](3-uibutton.md)
        * [1-自定义按钮，图片在上，文字在下](1zi_ding_yi_an_niu_ff0c_tu_pian_zai_shang_ff0c_wen.md)
    * [4-UIColor](4-uicolor.md)
-       * [1-颜色解决方案](1yan_se_jie_jue_fang_an.md)
 * [3-开发案例](3kai_fa_an_li.md)
 
