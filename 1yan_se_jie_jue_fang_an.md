@@ -1,6 +1,6 @@
 # 1-颜色解决方案
 
-```
+```objc
 let colorArray:[UIColor] =
         [
             UIColor.redColor(),
