@@ -20,6 +20,8 @@ let colorArray:[UIColor] =
 ###2 遍历colorArray 数组，根据alpha值，获取颜色。
 
 ```objc
+var colors:[UIColor]? = []
+
  for(var i=0;i<colorArray.count;i++) {
              let color = colorArray[i]
             for(var j=1;j<11;j++) {
