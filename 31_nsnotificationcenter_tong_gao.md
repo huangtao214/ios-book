@@ -18,7 +18,7 @@ NSNotificationCenter.defaultCenter().addObserver(self, selector: "outputClick:",
 ```
 
 ### 3 发送通告
-#####
+#####注意通告名称要一致，否则接收通告失败
 ```objc
 NSNotificationCenter.defaultCenter().postNotificationName("outputAV", object: item)
 ```
