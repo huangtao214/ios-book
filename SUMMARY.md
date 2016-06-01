@@ -11,5 +11,5 @@
    * [4-UIColor](4-uicolor.md)
    * [5-UILabel](5-uilabel.md)
 * [3-开发案例](3kai_fa_an_li.md)
-   * 3.1 NSNotificationCenter 通告
+   * [3.1 NSNotificationCenter 通告](31_nsnotificationcenter_tong_gao.md)
 
