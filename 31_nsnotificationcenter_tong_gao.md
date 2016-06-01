@@ -1,2 +1,2 @@
-# 3.1 NSNotificationCenter 通告
+# NSNotificationCenter 通告
 
