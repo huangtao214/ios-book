@@ -6,6 +6,7 @@
 #####name 表示通告key值，用于匹配通告
 #####object表示通告参数
 ```objc
+swift code:
 NSNotificationCenter.defaultCenter().addObserver(self, selector: "outputClick:", name: "outputAV", object: nil)
 ```
 
